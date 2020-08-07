@@ -15,6 +15,6 @@
 
 ### Github Stats
 <p>
-  <img width="53%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=keselekpermen69&count_private=true&theme=buefy&show_icons=true">
-  <img width="43%" align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact&theme=buefy" />
+  <img width="53%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=keselekpermen69&count_private=true&show_icons=true">
+  <img width="43%" align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact" />
 </p>
