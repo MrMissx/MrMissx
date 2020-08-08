@@ -1,7 +1,7 @@
 ## Hey there 👋
-![Header](https://telegra.ph/file/a0020d4c7dc25b73690ee.jpg)
+<a href="https://gist.githubusercontent.com/keselekpermen69/71d86f264156542154912216b0ebd234/raw/8bd67b5cc1f2552e6a7c5c235e87c5f8537e6cec/sana_doubleexposure.png" ><img src="https://telegra.ph/file/a0020d4c7dc25b73690ee.jpg" alt="Github" align="right" width="63%"/></a>
 
-#### About Me
+### About Me
 - 📍 Malang, East Java, Indonesia
 - 🎂 17 y.o
 - 🎓 Student
