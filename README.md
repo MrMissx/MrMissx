@@ -5,13 +5,15 @@
 - 📍 Malang, East Java, Indonesia
 - 🎂 17 y.o
 - 🎓 Student
-- 🖥 learning and kanging codes :"
+- 🖥 learning Python, JavaScript, C, C++, kotlin, HTML
 - 😜 Weebs *kinda*
 - 🍭 Once
-- 🌐 [My website](http://mrmiss.wtf)
+- 💜 Game
 
 ### GOAL:
 - [ ] Go to University :"
+- [ ] Update [BootAnimation](https://github.com/Sana-Project/TWICE_Bootanimation)
+- [ ] Finish [this](https://github.com/keselekpermen69/UserButt/issues/12) 
 
 ### Github Stats
 <p>
