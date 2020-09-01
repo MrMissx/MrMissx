@@ -11,7 +11,6 @@
 - 💜 Game
 
 ### GOAL:
-- [ ] Go to University :"
 - [ ] Update [BootAnimation](https://github.com/Sana-Project/TWICE_Bootanimation)
 - [ ] Finish [this](https://github.com/keselekpermen69/UserButt/issues/12)
 
@@ -20,3 +19,6 @@
   <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=keselekpermen69&count_private=true&show_icons=true&hide_border=true&count_private=true">
   <img width="40%" align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact&hide_border=true" />
 </p>
+
+<!-- Spotify status https://github.com/novatorem/spotify-readme -->
+<p align="center"><a href="https://open.spotify.com/user/f1g7btwggjx57fuhvni2p3fz4"> <img src="https://spotify-seven.vercel.app/api/spotify" alt="spotify" /></a></p>
