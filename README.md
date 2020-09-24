@@ -17,5 +17,5 @@
 ### Github Stats
 <p>
   <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=keselekpermen69&count_private=true&show_icons=true&hide_border=true&count_private=true">
-  <img width="40%" align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact&hide_border=true" />
+  <img width="40%" align="right" alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact&hide_border=true&langs_count=10" />
 </p>
