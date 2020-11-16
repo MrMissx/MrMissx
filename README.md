@@ -3,16 +3,11 @@
 
 ### About Me
 - 📍 Malang, East Java, Indonesia
-- 🎂 17 y.o
+- 🎂 18 y.o
 - 🎓 Student
 - 🖥 learning Python, JavaScript, C, C++, kotlin, HTML
-- 😜 Weebs *kinda*
 - 🍭 Once
-- 💜 Game
-
-### GOAL:
-- [ ] Update [BootAnimation](https://github.com/Sana-Project/TWICE_Bootanimation)
-- [ ] Finish [this](https://github.com/keselekpermen69/UserButt/issues/12)
+- 💜 Playing Game >.<
 
 ### Github Stats
 <p>
