@@ -11,7 +11,7 @@
 ### Github Stats
 <a>
   
-  ![](https://github.com/keselekpermen69/keselekpermen69/blob/stats/generated/overview.svg)
+  ![](https://github.com/keselekpermen69/stats/blob/master/generated/overview.svg)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keselekpermen69&layout=compact&hide_border=true&langs_count=10)
  
 </a>
