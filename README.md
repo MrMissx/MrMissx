@@ -10,7 +10,7 @@
 ### Github Stats
 <a>
   
-  ![](https://github.com/keselekpermen69/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/keselekpermen69/stats/blob/master/generated/languages.svg)
+  ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/overview.svg)
+  ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/languages.svg)
  
 </a>
