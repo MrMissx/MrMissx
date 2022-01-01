@@ -1,9 +1,9 @@
 ## Hey there 👋
 
 ### About Me
-- 🎂 18 y.o
+- 🎂 19 y.o
 - 🎓 Student
-- 🖥 learning Python, JavaScript, C, C++, kotlin, HTML
+- 🖥 learning Python, JavaScript, C, C++, Kotlin, Flutter, HTML
 - 🍭 Once
 - 💜 Playing Game
 
