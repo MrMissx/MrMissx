@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### About Me
-- 🎂 19 y.o
+- 🎂 20 y.o
 - 🎓 Student
 - 🖥 learning Python, TypeScript, C, C++, Kotlin, Flutter
 - 🍭 Once
