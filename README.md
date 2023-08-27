@@ -3,7 +3,7 @@
 ### About Me
 - 🎂 20 y.o
 - 🎓 Student
-- 🖥 learning Python, TypeScript, React, Flutter
+- 🖥 learning Python, Go, TypeScript, React, Flutter
 - 💜 Playing Game
 
 ### Github Stats
