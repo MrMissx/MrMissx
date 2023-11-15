@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### About Me
-- 🎂 20 y.o
+- 🎂 21 y.o
 - 🎓 Student
 - 🖥 learning Python, Go, Svelte
 - 💜 Playing Game
@@ -13,3 +13,6 @@
   ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/languages.svg)
  
 </a>
+
+
+[mrmiss.dev](https://mrmiss.dev)
