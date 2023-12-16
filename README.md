@@ -3,7 +3,7 @@
 ### About Me
 - 🎂 21 y.o
 - 🎓 Student
-- 🖥 learning Python, Go, Svelte
+- 🖥 learning Go, Svelte, Rust!
 - 💜 Playing Game
 
 ### Github Stats
@@ -15,4 +15,4 @@
 </a>
 
 
-[mrmiss.dev](https://mrmiss.dev)
+[mrmiss.dev](https://mrmiss.dev) | [blog](https://blog.mrmiss.dev)
