@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### About Me
-- 🎂 21 y.o
+- 🎂 22 y.o
 - 🎓 Student
 - 🖥 learning Go, Svelte, Rust!
 - 💜 Playing Game
