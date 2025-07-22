@@ -2,11 +2,10 @@
 
 ### About Me
 - 🎂 22 y.o
-- 🎓 Student
 - 🖥 learning Go, Svelte, Rust!
 - 💜 Playing Game
 
-### Github Stats
+### Nerd Stats
 <a>
   
   ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/overview.svg)
