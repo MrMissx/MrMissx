@@ -1,9 +1,8 @@
 ## Hey there 👋
 
 ### About Me
-- 🎂 22 y.o
 - 🖥 learning Go, Svelte, Rust!
-- 💜 Playing Game
+
 
 ### Nerd Stats
 <a>
